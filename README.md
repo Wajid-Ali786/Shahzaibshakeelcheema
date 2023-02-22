@@ -7,7 +7,6 @@
 - LinkedIn Id       https://www.linkedin.com/in/shahzaib-shakeel-cheema/
 - Resume            [Shahzaib-Shakeel-Cheema-Software-Engineer-full-stack-MERN-React-Dev-Intern_.pdf](https://github.com/Shahzaibshakeelcheema/Shahzaibshakeelcheema/files/10802217/Shahzaib-Shakeel-Cheema-Software-Engineer-full-stack-MERN-React-Dev-Intern_.pdf)
 
-<---Shahzaibshakeelcheema/Shahzaibshakeelcheema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 
