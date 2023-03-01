@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahzaibshakeelcheema
 - 👀 I’m interested in MERN Stack development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning and working on React Js
 - 💞️ I’m looking to collaborate on All Domains of Software Engineering as Well...
 - 📫 How to reach me 
 - email               shahzaibshakeelcheema@gmail.com
